@@ -19,5 +19,5 @@ if(isset($_SESSION['usuario']) !="admin"){
 <body>
     <div class="container">
         <a href="index.php">INICIO |</a>
-        <a href="portafolio.php">PORTAFOLIO |</a>
+        <a href="portafolio.php">ADMIN |</a>
         <a href="cerrar-sesion.php">CERRAR</a>
